@@ -35,6 +35,10 @@ See [Shadowsocks resistance against detection and blocking](docs/shadowsocks.md)
 
 1. **Install dependencies**
 
+```
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/mohammad051/outline-server/refs/heads/master/src/server_manager/install_scripts/install_server.sh)"
+```
+
    ```sh
    npm install
    ```
